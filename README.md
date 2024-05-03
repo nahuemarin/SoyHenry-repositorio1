@@ -1,2 +1,1 @@
-# soyhenry-repositorio1
-repositorio de prueba del modulo 2 del prep course de henry
+Esto es una prueba para crear un repositorio desde github y clonarlo a mi escritorio local.
